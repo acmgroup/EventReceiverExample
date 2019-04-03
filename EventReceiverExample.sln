@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventReceiverExample", "EventReceiverExample.csproj", "{E471A5C7-E1BE-43EC-A758-998F3A34380B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E471A5C7-E1BE-43EC-A758-998F3A34380B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E471A5C7-E1BE-43EC-A758-998F3A34380B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E471A5C7-E1BE-43EC-A758-998F3A34380B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E471A5C7-E1BE-43EC-A758-998F3A34380B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D0135FB-9078-462F-B9E4-DC2BB6192E7D}
+	EndGlobalSection
+EndGlobal
